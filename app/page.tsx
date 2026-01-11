@@ -147,7 +147,7 @@ export default function Home() {
 
               <p className="text-base text-foreground/75 leading-relaxed">
                 Specializing in palm jaggery powder, cane sugar, traditional pickles, and pure honey. We serve global
-                markets with flexible payment options and multiple shipping solutions. Direct exports from Chennai,
+                markets with flexible payment options and multiple shipping solutions. Direct exports from Thoothukudi,
                 Tamil Nadu with over a decade of industry expertise.
               </p>
 
