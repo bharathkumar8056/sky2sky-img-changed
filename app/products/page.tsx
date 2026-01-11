@@ -25,7 +25,7 @@ export default function ProductsPage() {
         "Rich mineral content",
         "Traditional production method",
       ],
-      image: "/assets/Palm-jaggery-powder.png",
+      image: "/assets/Palm-Jaggery-powder.png",
     },
     {
       id: "cane-sugar",
