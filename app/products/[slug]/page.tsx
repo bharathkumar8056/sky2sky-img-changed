@@ -8,7 +8,7 @@ const productDetails = {
   "palm-jaggery": {
     name: "Palm Jaggery Powder",
     category: "Natural Sweetener",
-    image: "/assets/Palm-Jaggery-powder.png",
+    image: "/assets/jaggery-powder.png",
     minOrder: "250 kg",
     delivery: "5-10 days",
     description:
