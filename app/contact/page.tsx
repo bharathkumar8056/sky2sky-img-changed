@@ -118,7 +118,8 @@ export default function ContactPage() {
                 <MapPin size={24} className="text-primary" />
               </div>
               <h3 className="font-bold text-lg mb-2 text-foreground">Location</h3>
-              <p className="text-muted-foreground">Chennai, Tamil Nadu, India</p>
+              <p className="text-muted-foreground">8/32, Middle Street, Arasanga Nagar, Themangulam, Nazerath,
+Thoothukudi - 628617</p>
             </div>
 
             {/* WhatsApp */}
