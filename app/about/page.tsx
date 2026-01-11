@@ -51,7 +51,7 @@ export default function AboutPage() {
             <div>
               <h2 className="text-3xl md:text-4xl font-bold mb-6">Who We Are</h2>
               <p className="text-lg text-muted-foreground mb-4 leading-relaxed">
-                Sky 2 Sky Global Exports is a premier agricultural export company based in Chennai, Tamil Nadu, India.
+                Sky 2 Sky Global Exports is a premier agricultural export company based in Thoothukudi, Tamil Nadu, India.
                 We specialize in premium quality products including palm jaggery powder, cane sugar, traditional
                 pickles, and pure honey.
               </p>
@@ -121,7 +121,8 @@ export default function AboutPage() {
             </div>
             <div className="bg-card border border-border p-8 rounded-xl">
               <h3 className="text-xl font-bold mb-4">Location</h3>
-              <p className="text-muted-foreground">Chennai, Tamil Nadu, India</p>
+              <p className="text-muted-foreground">8/32, Middle Street, Arasanga Nagar, Themangulam, Nazerath,
+Thoothukudi - 628617</p>
             </div>
           </div>
         </div>
