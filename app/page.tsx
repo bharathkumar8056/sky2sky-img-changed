@@ -14,7 +14,7 @@ export default function Home() {
       name: "Palm Jaggery Powder",
       description: "Pure, natural sweetness from palm trees. Perfect for beverages and traditional recipes.",
       minOrder: "250 kg",
-      image: "/assets/Palm-Jaggery-powder.png",
+      image: "/assets/jaggery-powder.png",
       slug: "palm-jaggery",
     },
     {
