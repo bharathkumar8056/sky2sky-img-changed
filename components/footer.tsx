@@ -55,7 +55,8 @@ export function Footer() {
               </div>
               <div className="flex items-start gap-2">
                 <MapPin size={16} className="mt-0.5" />
-                <span className="text-sm">Chennai, Tamil Nadu, India</span>
+                <span className="text-sm">8/32, Middle Street, Arasanga Nagar, Themangulam, Nazerath,
+Thoothukudi - 628617</span>
               </div>
             </div>
           </div>
